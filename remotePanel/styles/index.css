@@ -40,8 +40,11 @@ header {
     flex-direction: column;
     align-items: center;
     margin-top: 10px;
+    font-family: "Roboto Light", sans-serif;
+
 
     .remote-container {
+        padding: 10px;
         width: 1000px;
         height: 500px;
         border-radius: 10px;
